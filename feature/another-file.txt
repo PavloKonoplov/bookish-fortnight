@@ -1,3 +1,5 @@
 Replaced in the feature-2 branch
 
 This file was modified locally
+
+Another modification in the feature-2 locally
