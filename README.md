@@ -1,3 +1,3 @@
 # bookish-fortnight
-Describtion
-Modified locally.
+
+This line was modified manually during conflict
